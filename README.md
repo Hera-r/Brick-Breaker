@@ -2,7 +2,7 @@
 
 A simple and fully playable Brick Breaker game written in Lua using the LÖVE 2D framework.
 
-## 🎮 Features
+## Features
 
 - Paddle movement (A / D keys)
 - Ball launch with Spacebar
@@ -10,7 +10,7 @@ A simple and fully playable Brick Breaker game written in Lua using the LÖVE 2D
 - Game resets when the ball is missed
 - Exit with Escape key
 
-## 🛠️ How to Run
+## How to Run
 
 You need [LÖVE](https://love2d.org/) installed.
 
